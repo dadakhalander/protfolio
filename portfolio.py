@@ -45,7 +45,7 @@ if page == "Home":
     col1, col2 = st.columns([1, 2])
 
     with col1:
-        st.image("your_photo.jpg", width=250)
+        st.image("IMG_0166.jpeg", width=250)
 
     with col2:
         st.write("Short introduction about yourself.")
